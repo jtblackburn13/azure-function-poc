@@ -1,0 +1,13 @@
+bin/
+handler
+handler.exe
+*.zip
+
+# Terraform
+terraform/.terraform/
+terraform/.terraform.lock.hcl
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/*.tfvars
+terraform/*.tfvars.json
+terraform/.terraform.tfstate.lock.info
